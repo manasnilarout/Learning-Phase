@@ -1,0 +1,15 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-series.js",
+  "dependencies": {
+    "async": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya <contact@theguywithideas.com>",
+  "license": "ISC"
+}
