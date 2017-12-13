@@ -26,4 +26,5 @@ mongoose.connection.once('open', function(){
 
 });
 
-
+var User = require('./User.js');
+var newUser = mongoose.model('USER')
