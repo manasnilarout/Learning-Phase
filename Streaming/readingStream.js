@@ -22,6 +22,7 @@ readerStream.on('data', function(chunk){
 	//..
 	//to see the size of chunk
 	console.log(chunk.length);
+	//you can do other changes as per your need..
 });
 
 //end handler
